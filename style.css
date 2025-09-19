@@ -1,0 +1,133 @@
+/* CSS files add styling rules to your content */
+
+html, body {
+  height:100%;
+  margin:0;
+  padding:0;
+}
+body {
+  margin:0;
+  padding:0;
+  background-color: #000;
+}
+#container {
+  height:100%;
+  width:100%;
+  display:flex;
+	flex-flow: column nowrap;
+  justify-content:center;
+  align-items:center;
+}
+#timetxt {
+  color: #ffffff;
+  font-size: 12em;
+  opacity: .3;
+}
+#brightness, #color {
+	width: 70%;
+  height: 40px;
+	margin: 40px auto;
+	background-color: gray;
+}
+#brightnessRange {
+	width: 80%;
+}
+.settings {
+    /* display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 999; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+}
+.settingsContainer {
+	display:flex;
+	flex-flow: column nowrap;
+  justify-content:space-between;
+  align-items:center;
+	height:100%;
+}
+.controlContainer {
+	display:flex;
+	flex-flow: row nowrap;
+	justify-content: center;
+	align-items: center;
+}
+#colorSize {
+	width: 80%;
+	height: 60px;
+	margin: 40px auto;
+}
+.colors {
+	display:flex;
+	flex-flow: row nowrap;
+	justify-content: space-evenly;
+	align-items: center;
+	height: 60px;
+	width: 60%;
+}
+.color {
+	height:100%;
+	width: 15%;
+}
+.red {
+	background-color: #fe0000;
+}
+.blue {
+	background-color: #00cfff;
+}
+.green {
+	background-color: #0bff01;
+}
+.yellow {
+	background-color: #fdfe02;
+}
+.pink {
+	background-color: #fe00f6;
+}
+.white {
+	background-color: #ffffff;
+}
+.fonts {
+	display:flex;
+	flex-flow: row nowrap;
+	justify-content: space-evenly;
+	align-items: center;
+	height: 100px;
+	width: 30%;
+}
+.font {
+	color: white;
+	width: 25%;
+	display:flex;
+	flex-flow: row nowrap;
+	justify-content: center;
+	align-items: center;
+}
+.current {
+	border: 6px solid gray;
+}
+.current-font {
+	opacity: .6;
+}
+.small {
+	font-size: 2em;
+}
+.medium {
+	font-size: 3em;
+}
+.large {
+	font-size: 4em;
+}
+#gear {
+  background-image: url("https://cdn.glitch.com/79b54f10-3d9b-4255-ab30-e83cdb7826c9%2Fgear-small.png?v=1606075428804");
+  position: fixed;
+  top: 30px;
+  left: 30px;
+  height: 60px;
+  width: 60px;
+}
+.hidden {
+  display: none;
+}

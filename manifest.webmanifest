@@ -1,0 +1,24 @@
+{
+  "short_name": "Bedside Clock",
+  "name": "Personal Bedside Clock",
+  "description": "Just a clock and nothing more.",
+  "icons": [
+    {
+      "src": "https://cdn.glitch.com/79b54f10-3d9b-4255-ab30-e83cdb7826c9%2Ficons-192.png?v=1609532002079",      
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn.glitch.com/79b54f10-3d9b-4255-ab30-e83cdb7826c9%2Ficons-512.png?v=1605836679175",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#000000",
+  "display": "fullscreen",
+  "scope": "/",
+  "theme_color": "#000000",
+  "orientation": "any"
+
+}
