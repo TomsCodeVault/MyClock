@@ -4,12 +4,12 @@
   "description": "Just a clock and nothing more.",
   "icons": [
     {
-      "src": "Assets/79b54f10-3d9b-4255-ab30-e83cdb7826c9%2Ficons-192.png",      
+      "src": "assets/79b54f10-3d9b-4255-ab30-e83cdb7826c9%2Ficons-192.png",      
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "Assets/79b54f10-3d9b-4255-ab30-e83cdb7826c9_icons-512.png",
+      "src": "assets/79b54f10-3d9b-4255-ab30-e83cdb7826c9_icons-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
