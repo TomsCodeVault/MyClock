@@ -121,7 +121,7 @@ body {
 	font-size: 4em;
 }
 #gear {
-  background-image: url("https://cdn.glitch.com/79b54f10-3d9b-4255-ab30-e83cdb7826c9%2Fgear-small.png?v=1606075428804");
+  background-image: url("/assets/79b54f10-3d9b-4255-ab30-e83cdb7826c9%2Fgear-small.png");
   position: fixed;
   top: 30px;
   left: 30px;
