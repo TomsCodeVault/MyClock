@@ -5,9 +5,9 @@ var CACHED_URLS = [
   "/style.css",
   "/clock.js",
 	"/manifest.webmanifest",
-	"/assets/79b54f10-3d9b-4255-ab30-e83cdb7826c9%2Ficons-192.png",
-	"/assets/79b54f10-3d9b-4255-ab30-e83cdb7826c9%2Ficons-512.png",
-	"/assets/79b54f10-3d9b-4255-ab30-e83cdb7826c9%2Fgear-small.png"
+	"/Assets/79b54f10-3d9b-4255-ab30-e83cdb7826c9%2Ficons-192.png",
+	"/Assets/79b54f10-3d9b-4255-ab30-e83cdb7826c9%2Ficons-512.png",
+	"/Assets/79b54f10-3d9b-4255-ab30-e83cdb7826c9%2Fgear-small.png"
 ];
 
 self.addEventListener("install", function(event) {
