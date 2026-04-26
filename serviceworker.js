@@ -1,13 +1,13 @@
-var CACHE_NAME = "clock-v7";
+var CACHE_NAME = "clock-v8";
 var CACHED_URLS = [
-  "https://grandiose-luxurious-editor.glitch.me/",
-  "https://grandiose-luxurious-editor.glitch.me/index.html",
-  "https://grandiose-luxurious-editor.glitch.me/style.css",
-  "https://grandiose-luxurious-editor.glitch.me/clock.js",
-	"https://grandiose-luxurious-editor.glitch.me/manifest.webmanifest",
-	"https://cdn.glitch.com/79b54f10-3d9b-4255-ab30-e83cdb7826c9%2Ficons-192.png?v=1609532002079",
-	"https://cdn.glitch.com/79b54f10-3d9b-4255-ab30-e83cdb7826c9%2Ficons-512.png?v=1605836679175",
-	"https://cdn.glitch.com/79b54f10-3d9b-4255-ab30-e83cdb7826c9%2Fgear-small.png?v=1606075428804"
+  "/",
+  "/index.html",
+  "/style.css",
+  "/clock.js",
+	"/manifest.webmanifest",
+	"/assets/79b54f10-3d9b-4255-ab30-e83cdb7826c9%2Ficons-192.png",
+	"/assets/79b54f10-3d9b-4255-ab30-e83cdb7826c9%2Ficons-512.png",
+	"/assets/79b54f10-3d9b-4255-ab30-e83cdb7826c9%2Fgear-small.png"
 ];
 
 self.addEventListener("install", function(event) {
