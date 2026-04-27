@@ -3,13 +3,33 @@
   "name": "Personal Bedside Clock",
   "description": "Just a clock and nothing more.",
   "icons": [
+	{
+      "src": "images/Clock-48.png",      
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+	{
+      "src": "images/Clock-72.png",      
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+	{
+      "src": "images/Clock-96.png",      
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+	{
+      "src": "images/Clock-144.png",      
+      "type": "image/png",
+      "sizes": "144x144"
+    },
     {
-      "src": "Assets/79b54f10-3d9b-4255-ab30-e83cdb7826c9%2Ficons-192.png",      
+      "src": "images/Clock-192.png",      
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "Assets/79b54f10-3d9b-4255-ab30-e83cdb7826c9_icons-512.png",
+      "src": "images/clock-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
