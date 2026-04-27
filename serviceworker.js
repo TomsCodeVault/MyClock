@@ -5,9 +5,9 @@ var CACHED_URLS = [
   "style.css",
   "clock.js",
   "manifest.webmanifest",
-  // "images/clock-192.png",
-  // "images/clock-512.png",
-  // "images/Gear.png"
+  "images/clock-192.png",
+  "images/clock-512.png",
+  "images/Gear.png"
 ];
 
 self.addEventListener("install", function(event) {
