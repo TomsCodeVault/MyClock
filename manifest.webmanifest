@@ -4,37 +4,37 @@
   "description": "Just a clock and nothing more.",
   "icons": [
 	{
-      "src": "images/Clock-48.png",      
+      "src": "/MyClock/images/Clock-48.png",      
       "type": "image/png",
       "sizes": "48x48"
     },
 	{
-      "src": "images/Clock-72.png",      
+      "src": "/MyClock/images/Clock-72.png",      
       "type": "image/png",
       "sizes": "72x72"
     },
 	{
-      "src": "images/Clock-96.png",      
+      "src": "/MyClock/images/Clock-96.png",      
       "type": "image/png",
       "sizes": "96x96"
     },
 	{
-      "src": "images/Clock-144.png",      
+      "src": "/MyClock/images/Clock-144.png",      
       "type": "image/png",
       "sizes": "144x144"
     },
     {
-      "src": "images/Clock-192.png",      
+      "src": "/MyClock/images/Clock-192.png",      
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "images/clock-512.png",
+      "src": "/MyClock/images/clock-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
-  "start_url": "/",
+  "start_url": "/MyClock/",
   "background_color": "#000000",
   "display": "fullscreen",
   "scope": "/",
