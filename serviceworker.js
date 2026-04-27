@@ -1,13 +1,13 @@
 var CACHE_NAME = "clock-v8";
 var CACHED_URLS = [
   "/",
-  "/index.html",
-  "/style.css",
-  "/clock.js",
-	"/manifest.webmanifest",
-	"/Assets/79b54f10-3d9b-4255-ab30-e83cdb7826c9%2Ficons-192.png",
-	"/Assets/79b54f10-3d9b-4255-ab30-e83cdb7826c9%2Ficons-512.png",
-	"/Assets/79b54f10-3d9b-4255-ab30-e83cdb7826c9%2Fgear-small.png"
+  "index.html",
+  "style.css",
+  "clock.js",
+  "manifest.webmanifest",
+  "images/clock-192.png",
+  "images/clock-512.png",
+  "images/Gear.png"
 ];
 
 self.addEventListener("install", function(event) {
