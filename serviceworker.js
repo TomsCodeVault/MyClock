@@ -1,4 +1,4 @@
-var CACHE_NAME = "clock-v8";
+var CACHE_NAME = "clock-v9";
 var CACHED_URLS = [
   "/MyClock/",
   "/MyClock/index.html",
