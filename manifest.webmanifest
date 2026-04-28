@@ -4,7 +4,7 @@
   "description": "Just a clock and nothing more.",
   "icons": [
 	{
-      "src": "/MyClock/images/clock-512.png",
+      "src": "/MyClock/images/test.png",
       "type": "image/png",
       "sizes": "512x512",
 	  "purpose": "maskable"
