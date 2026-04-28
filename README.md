@@ -1,4 +1,4 @@
-Welcom to My Clock
+Welcome to My Clock
 =================
 
 This app is just for use by me and my family as a bedside clock. It displays the time and does nothing else.
