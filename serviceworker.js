@@ -1,12 +1,11 @@
-var CACHE_NAME = "clock-v9";
+var CACHE_NAME = "clock-v10";
 var CACHED_URLS = [
   "/MyClock/",
   "/MyClock/index.html",
   "/MyClock/style.css",
   "/MyClock/clock.js",
   "/MyClock/manifest.webmanifest",
-  "/MyClock/images/clock-192.png",
-  "/MyClock/images/clock-512.png",
+  "/MyClock/images/clock.png",
   "/MyClock/images/Gear.png"
 ];
 
