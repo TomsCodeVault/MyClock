@@ -5,7 +5,7 @@ var CACHED_URLS = [
   "/MyClock/style.css",
   "/MyClock/clock.js",
   "/MyClock/manifest.webmanifest",
-  "/MyClock/images/clock.png",
+  "/MyClock/images/Clock.png",
   "/MyClock/images/Gear.png"
 ];
 
